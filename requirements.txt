@@ -1,0 +1,6 @@
+botcity-cloudvision-plugin
+botcity-crawler-plugin
+botcity-csv-plugin
+botcity-excel-plugin
+botcity-http-plugin
+botcity-googlesheets-plugin
